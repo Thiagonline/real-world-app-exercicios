@@ -74,6 +74,72 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "HtKnWFsLU",
+      "uuid": "a7474b47-9f03-41a7-a73f-0a5c1f226701",
+      "firstName": "Thiago",
+      "lastName": "Goiânia",
+      "username": "QA_Thiago_1770055560422",
+      "password": "$2a$10$ElazlVzKfM0iefCykG31hunMn25JcweULBL3UEh9m7VyaQcgvUEZ.",
+      "balance": 0,
+      "createdAt": "2026-02-02T18:06:03.633Z",
+      "modifiedAt": "2026-02-02T18:06:03.633Z"
+    },
+    {
+      "id": "1MjT43rjd",
+      "uuid": "b6067860-95c7-405e-b9f7-18c7f3824452",
+      "firstName": "Thiago",
+      "lastName": "Goiânia",
+      "username": "QA_Thiago_1770055617979",
+      "password": "$2a$10$SJ7VskwIoUojxD7c7ffeROwIHTh8wyacJnl8L8jtOPuwCT/LJx3uy",
+      "balance": 0,
+      "createdAt": "2026-02-02T18:07:00.081Z",
+      "modifiedAt": "2026-02-02T18:07:00.081Z"
+    },
+    {
+      "id": "BAo4-OerK",
+      "uuid": "fb376939-b4d3-42b6-942d-0682c666d3fb",
+      "firstName": "Thiago",
+      "lastName": "Goiânia",
+      "username": "QA_Thiago_1770055689178",
+      "password": "$2a$10$d7Rv4mh2mXwqOTsfBEE3wONQJCXDVhILXKSISaz1WGIovWN7ASsqa",
+      "balance": 0,
+      "createdAt": "2026-02-02T18:08:11.798Z",
+      "modifiedAt": "2026-02-02T18:08:11.798Z"
+    },
+    {
+      "id": "B0h28gi7P",
+      "uuid": "cb87966e-da89-4edc-bde2-09931030e72d",
+      "firstName": "Thiago",
+      "lastName": "Goiânia",
+      "username": "QA_Thiago_1770055905725",
+      "password": "$2a$10$7cbzjvaPk.t9uvV7lV6bC.S8c.NmDUZfGD5hEMVHHtb2kUYSHWJYW",
+      "balance": 0,
+      "createdAt": "2026-02-02T18:11:48.819Z",
+      "modifiedAt": "2026-02-02T18:11:48.819Z"
+    },
+    {
+      "id": "IJc03hSa-",
+      "uuid": "226f7513-4f1a-4698-8b71-897823f1a230",
+      "firstName": "Thiago",
+      "lastName": "QA",
+      "username": "thiago_qa_1770055998336",
+      "password": "$2a$10$v3hcB2kMo0aR7wzeDHicbeljqZT3jHmq5FUnPY5sOb6bSfeRyOu5C",
+      "balance": 0,
+      "createdAt": "2026-02-02T18:13:22.028Z",
+      "modifiedAt": "2026-02-02T18:13:22.028Z"
+    },
+    {
+      "id": "320UWRgNx",
+      "uuid": "bb39b29a-8ce0-4768-a27b-990d9333860b",
+      "firstName": "Thiago",
+      "lastName": "QA",
+      "username": "thiago_qa_1770056003799",
+      "password": "$2a$10$yUuLhWqajAG8tQ4AgAFw7.Y2pEZ4nRCk2PJutbIRC/lrYtNTx9msi",
+      "balance": 0,
+      "createdAt": "2026-02-02T18:13:26.597Z",
+      "modifiedAt": "2026-02-02T18:13:26.597Z"
     }
   ],
   "contacts": [
